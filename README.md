@@ -26,4 +26,5 @@ Allows the user to add entries of different expenses of different types.
 **Notes:**
 - The program does not permanently store entries after closing the program
 - Cannot remove entries unless you close the program, resetting the entries
+
 (These are both improvements for the future)
